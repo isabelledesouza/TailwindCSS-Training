@@ -1,1 +1,1 @@
-The practical lessons of course Linkedin Tailwind Essential Training. 
+The practical lessons of Linkedin Tailwind Essential Training. 
